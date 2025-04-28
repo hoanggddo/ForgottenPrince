@@ -1,0 +1,21 @@
+ECHO is on.
+# Ignore compiled GameMaker build files
+*.win
+*.exe
+*.zip
+*.apk
+*.ogg
+*.wav
+*.dll
+
+# Ignore GameMaker build folders
+build/
+output/
+bin/
+config/
+
+# Ignore backup files
+*.yyz
+*.temp
+*.log
+*.autosave
