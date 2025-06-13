@@ -1,14 +1,14 @@
 # 🎮 Forgotten Prince - 2D Action RPG
 
-![Game Banner](https://github.com/hoanggddo/ForgottenPrince/blob/main/Assets/Sprites/Banner.png?raw=true)
 
-An immersive 2D action RPG where you play as a forgotten prince reclaiming your kingdom. Built with Unity, featuring rich pixel art, dynamic combat, and an engaging storyline.
+
+An immersive 2D action RPG where you play as a forgotten prince reclaiming your kingdom. Built with GameMaker, featuring rich pixel art, dynamic combat, and an engaging storyline.
 
 ## 🏰 Game Overview
 - **Genre**: 2D Action RPG
 - **Platform**: Windows, macOS
-- **Engine**: Unity 2021.3 LTS
-- **Status**: In Development (Alpha v0.5)
+- **Engine**: GameMaker Studio 2
+- **Status**: Alpha v1.1
 
 ## ✨ Features
 - 🗡️ Fluid combat system with combos and special abilities
@@ -19,14 +19,15 @@ An immersive 2D action RPG where you play as a forgotten prince reclaiming your 
 - � Dynamic day/night cycle affecting gameplay
 
 ## 🕹️ Controls
-| Action          | Keyboard | Gamepad |
+| Action          | Keyboard | Switch Gamepad |
 |-----------------|----------|---------|
 | Movement        | WASD     | Left Stick |
-| Attack          | J        | X       |
-| Special Ability | K        | Y       |
-| Dodge Roll      | L        | B       |
-| Interact        | E        | A       |
-| Menu            | ESC      | Start   |
+| Sword Attack    | Left MB | B       |
+| Bow and Arrow   | Right MB | ZR      |
+| Interact        | Space Bar   | A    |
+| Health Potion   | E        | X     |
+| Speed Potion    | Q        | Y       |
+| Menu            | Backspace     | R   |
 
 ## 📦 Installation
 ### Windows
@@ -39,21 +40,12 @@ An immersive 2D action RPG where you play as a forgotten prince reclaiming your 
 2. Drag to Applications folder
 3. Right-click → Open (first time only)
 
-## 🛠️ Development Setup
-1. Clone repository:
-```bash
-git clone https://github.com/hoanggddo/ForgottenPrince.git
-Open project in Unity 2021.3 LTS
 
-Install required packages:
 
-Cinemachine
+###🎨 Assets
 
-Input System
+Character sprites, tilesets, music was NOT created by me
 
-2D Pixel Perfect
-
-🎨 Assets
 Asset Type	Source
 Character Sprites	Custom
 Environment	2D Fantasy Tileset
@@ -68,13 +60,6 @@ We welcome contributions! Please see our Contribution Guidelines for details.
 📄 License
 This project is licensed under the MIT License - see LICENSE.md for details.
 
-📧 Contact
-Developer: hoanggddo
-
-Email: your-email@example.com
-
-Discord: Join our server
-
 📌 Roadmap
 Core combat system
 
@@ -86,4 +71,3 @@ Quest system
 
 Multiplayer co-op
 
-https://github.com/hoanggddo/ForgottenPrince/blob/main/Assets/Sprites/Screenshot1.png?raw=true
