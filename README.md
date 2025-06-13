@@ -27,6 +27,7 @@ An immersive 2D action RPG where you play as a forgotten prince reclaiming your 
 | Interact        | Space Bar   | A    |
 | Health Potion   | E        | X     |
 | Speed Potion    | Q        | Y       |
+| Bombs   | Shift        | ZL       |
 | Menu            | Backspace     | R   |
 
 ## 📦 Installation
