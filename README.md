@@ -43,7 +43,7 @@ An immersive 2D action RPG where you play as a forgotten prince reclaiming your 
 
 
 
-###🎨 Assets
+🎨 Assets
 
 Character sprites, tilesets, music was NOT created by me
 
