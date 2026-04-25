@@ -7,7 +7,7 @@ An immersive 2D action RPG where you play as a forgotten prince reclaiming your 
 ## 🏰 Game Overview
 - **Genre**: 2D Action RPG
 - **Platform**: Windows, macOS
-- **Engine**: GameMaker Studio 2g
+- **Engine**: GameMaker Studio 2
 - **Status**: Alpha v1.1
 
 ## ✨ Features
